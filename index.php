@@ -19,25 +19,32 @@
 
         <header>
 
-    <div class="contenedor" id="tres">
+    <a href="#">
+      <div class="contenedor" id="tres">
       <img class="icon" src="img/home.png">
       <p class="texto">INICIO</p>
-    </div>
+      </div>
+    </a>
 
-    <div class="contenedor" id="cuatro">
+    <a href="#"><div class="contenedor" id="cuatro">
       <img class="icon" src="img/users.png">
       <p class="texto">QUIENES SOMOS</p>
-    </div>
+      </div>
+    </a>
 
-    <div class="contenedor" id="cinco">
-      <img class="icon" src="img/servicio.png">
-      <p class="texto">SERVICIOS</p>
-    </div>
+    <a href="#">
+      <div class="contenedor" id="cinco">
+        <img class="icon" src="img/servicio.png">
+        <p class="texto">SERVICIOS</p>
+      </div>
+    </a>
 
-    <div class="contenedor" id="seis">
-      <img class="icon" src="img/tel.png">
-      <p class="texto">CONTACTO</p>
-    </div>
+    <a href="#">
+      <div class="contenedor" id="seis">
+        <img class="icon" src="img/tel.png">
+        <p class="texto">CONTACTO</p>
+      </div>
+    </a>
 
   </header>
 
