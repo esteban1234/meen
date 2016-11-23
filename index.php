@@ -26,7 +26,7 @@
       </div>
     </a>
 
-    <a href="#"><div class="contenedor" id="cuatro">
+    <a href="vistas/nosotros.php"><div class="contenedor" id="cuatro">
       <img class="icon" src="img/users.png">
       <p class="texto">QUIENES SOMOS</p>
       </div>

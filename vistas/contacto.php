@@ -13,7 +13,7 @@
       <nav>
         <ul>
           <li><a href="../index.php"><span class="icon-home"></span>&nbsp;INICIO</a></li>
-          <li><a href="quienesSomos.php"><span class="icon-users"></span>&nbsp;QUIENES SOMOS</a></li>
+          <li><a href="nosotros.php"><span class="icon-users"></span>&nbsp;QUIENES SOMOS</a></li>
           <li><a href="servicios.php"><span class="icon-suitcase"></span>&nbsp;SERVICIOS</a></li>
           <li class="active"><a href="contacto.php"><span class="icon-old-phone"></span>&nbsp;CONTACTO</a></li>
         </ul>
@@ -72,7 +72,7 @@
 
 
 
-    <!-- <span class="ir-arriba icon-arrow-bold-up"></span> -->
+    <span class="ir-arriba icon-arrow-bold-up"></span>
 
     <?php include 'Pie.php';?>
 
