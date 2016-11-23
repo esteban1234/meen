@@ -39,7 +39,7 @@
       </div>
     </a>
 
-    <a href="#">
+    <a href="vistas/contacto.php">
       <div class="contenedor" id="seis">
         <img class="icon" src="img/tel.png">
         <p class="texto">CONTACTO</p>

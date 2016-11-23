@@ -190,3 +190,223 @@ footer {
 footer b {
     color: rgb(135, 184, 37);
 }
+
+
+/*-----------------------------contactanos---------------*/
+
+.header {
+    width: 100%;
+    /*outline: 2px red solid;*/
+    background-color: rgb(158, 187, 59);
+    height: 62px;
+}
+
+.header nav {
+    /*outline: 2px red solid;*/
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header nav ul {
+    /*outline: 2px black solid;*/
+    width: 100%;
+}
+
+.header nav ul li {
+    border-right: 2px #474746 solid;
+    width: 22%;
+    display: inline-block;
+    /*margin-left: 3%;*/
+    text-decoration: none;
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.header nav ul li a {
+    /*outline: 2px green solid;*/
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: bold;
+}
+
+.header nav ul li:hover {
+    background-color: rgb(135, 184, 37);
+}
+
+.header nav ul .active {
+    background-color: rgb(135, 184, 37);
+    /*border-radius: 5px;*/
+    color: #FFF;
+}
+
+.contacto {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    text-align: center;
+    color: #5f6a6a;
+    margin-top: 2%;
+}
+
+.textoconta {
+    /*outline: 2px red solid;*/
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contacto {
+    /*border: 2px yellow solid;*/
+    overflow: hidden;
+    width: 50%;
+    margin: 0 auto;
+    /*margin-left: 5%;*/
+    margin-top: 2%;
+}
+
+.ema {
+    /*border: 2px yellow solid;*/
+    font-size: 16px;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+.emai:focus {
+    border: 2px solid #2DE1CE;
+    outline: 0px;
+    -webkit-box-shadow: -1px 2px 26px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -1px 2px 26px -4px rgba(0, 0, 0, 0.75);
+    box-shadow: -1px 2px 26px -4px rgba(0, 0, 0, 0.75);
+}
+
+.emai {
+    height: 30px;
+    border-radius: 5px;
+    /*border: .5px solid #504C4C;*/
+    margin-top: 1%;
+    border: 1px solid #ccc;
+    width: 99%;
+    -webkit-box-shadow: inset 0 2px 2px 2px rgba(0, 0, 0, .075);
+    -moz-box-shadow: inset 0 2px 2px 2px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 2px 2px 2px rgba(0, 0, 0, .075);
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+input::-webkit-input-placeholder {
+    color: #747474;
+    padding-left: 5px;
+    /*text-align: center;*/
+}
+
+input:-moz-placeholder {
+    color: #747474;
+    padding-left: 5px;
+    /*margin-left: 15px;*/
+}
+
+input:-ms-input-placeholder {
+    color: #747474;
+    padding-left: 5px;
+    /*margin-left: 15px;*/
+}
+
+.enviar {
+    /*border: 2px solid red;*/
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(158, 187, 59);
+    padding: 15px;
+    border-radius: 5px;
+    width: 40%;
+    margin-bottom: 3%;
+    border: 0px;
+    float: right;
+}
+
+.enviar:hover {
+    background: #4b4a4d;
+}
+
+.der {
+    /*border: 2px black solid;*/
+    width: 50%;
+    float: right;
+    /*margin-left: 2%;*/
+    padding: 3% 0px 3% 3%;
+}
+
+.izq {
+    /*border: 2px black solid;*/
+    width: 43%;
+    padding: 3% 3% 3% 0px;
+    float: left;
+}
+
+#cote {
+    /*border: 2px solid red;*/
+    overflow: hidden;
+}
+
+#areac {
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#areac:focus {
+    height: 100px;
+}
+
+#enviar2 {
+    margin-top: 3%;
+    width: 30%;
+}
+
+.mapa {
+    /*outline: 2px red solid;*/
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mapa iframe {
+    width: 100%;
+}
+
+.datos {
+    /*outline: 2px red solid;*/
+    margin-top: 2%;
+    width: 100%;
+}
+
+.direc,
+.tel,
+.hor,
+.cor {
+    /*outline: 2px yellow solid;*/
+    width: 20%;
+    display: inline-block;
+    margin-left: 4%;
+    vertical-align: top;
+}
+
+.text_datos {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    text-align: center;
+    color: #5f6a6a;
+    font-weight: bold;
+}
+
+.text_datosd {
+    margin-top: 1%;
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+}
