@@ -20,39 +20,36 @@
         <header>
 
     <div class="contenedor" id="tres">
-    <span class="icon icon-text-document"></span>
-      <!-- <img class="icon" src="img/icon3.png"> -->
+      <img class="icon" src="img/home.png">
       <p class="texto">INICIO</p>
     </div>
 
     <div class="contenedor" id="cuatro">
-      <img class="icon" src="img/icon4.png">
+      <img class="icon" src="img/users.png">
       <p class="texto">QUIENES SOMOS</p>
     </div>
 
     <div class="contenedor" id="cinco">
-      <img class="icon" src="img/icon5.png">
+      <img class="icon" src="img/servicio.png">
       <p class="texto">SERVICIOS</p>
     </div>
 
     <div class="contenedor" id="seis">
-      <img class="icon" src="img/icon6.png">
+      <img class="icon" src="img/tel.png">
       <p class="texto">CONTACTO</p>
     </div>
 
   </header>
-      <!-- <div class="text">
-        <h1> div con imagen de fondo responsive</h1>
-        <h3>Imagen adaptada a todas las resoluciones de pantalla</h3>
-      </div> -->
+
+
+      <?php include 'vistas/pie.php';?>
     </section>
 
-    <!-- <img src="img/MEEN.jpg" alt=""> -->
 
 
       <!-- <span class="ir-arriba icon-arrow-bold-up"></span> -->
 
-      <!-- <?php include 'vistas/pie.php';?> -->
+
 
 
     <!-- <script type="text/javascript" src="js/jquery.js"></script> -->
