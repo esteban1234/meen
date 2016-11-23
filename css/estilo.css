@@ -1,3 +1,12 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Opens Sans', helvetica;
     height: 100%;
@@ -54,16 +63,86 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;*/
-    /*outline: 2px red solid;*/
+    outline: 2px red solid;
     height: 100%;
     width: 100%;
 }
 
 .portada figure {
-    /*outline: 2px red solid;*/
+    outline: 2px red solid;
     width: 100%;
     text-align: center;
 }
+
+
+/*-------------------------------------menu-------------------*/
+
+header {
+    outline: 2px red solid;
+    margin: 0 auto;
+    width: 59.5%;
+    height: 230px;
+    /*background-color: red;*/
+}
+
+div.contenedor {
+    width: 200px;
+    height: 230px;
+    float: left;
+    -webkit-transition: height .4s;
+}
+
+div#tres {
+    background-color: rgb(22, 145, 190);
+}
+
+div#cuatro {
+    background-color: rgb(22, 107, 162);
+}
+
+div#cinco {
+    background-color: rgb(27, 54, 71);
+}
+
+div#seis {
+    background-color: rgb(21, 40, 54);
+}
+
+.icon {
+    display: block;
+    margin: 50px auto;
+    background-color: rgba(255, 255, 255, .15);
+    width: 40px;
+    padding: 20px;
+    -webkit-border-radius: 50%;
+    -webkit-box-shadow: 0px 0px 0px 30px rgba(255, 255, 255, 0);
+    -webkit-transition: box-shadow .4s;
+}
+
+p.texto {
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    opacity: .6;
+    -webkit-transition: padding-top .4s;
+}
+
+div.contenedor:hover {
+    height: 250px;
+}
+
+div.contenedor:hover p.texto {
+    padding-top: 30px;
+    opacity: 1;
+}
+
+div.contenedor:hover img.icon {
+    -webkit-box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, .6);
+}
+
+
+/*----------------------------------fin del menu---------------------------*/
 
 
 /*.text {

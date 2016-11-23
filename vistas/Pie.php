@@ -1,8 +1,8 @@
 
 
 	<footer>
-			<article class="piecondos">
-			<p class="dtcdos">Derechos de autor 2016© <b class="petruspie">| AMERIXPORTA COMERCIALIZADORA S. de R.L de C.V.</b></p>
+			<article class="pie">
+			<p>© 2016 MEEN Constructora. Todos los Derechos Reservados.</p>
 			</article>
 	</footer>
 </body>
