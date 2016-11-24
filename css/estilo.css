@@ -237,6 +237,31 @@ footer b {
     background-color: #515a5a;
 }
 
+.puntos,
+.mv {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.puntos {
+    outline: 2px red solid;
+    width: 40%;
+    margin-left: 5%;
+}
+
+.puntos p {
+    outline: 2px green solid;
+    color: white;
+    background-color: rgb(158, 187, 59, 0.7);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.mv {
+    outline: 2px black solid;
+}
+
 
 /*-----------------------------contactanos---------------*/
 
