@@ -63,7 +63,7 @@
                     <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
                   </div>
                   <div id="info3" class="oculto">
-                  <p>Expandir nuestro campo de trabajo para dar el más alto rendimiento de nuestros servicios en tiempo, costo y la más alta calidad y el mejor equipo de trabajo al servicio de nuestros clientes.</p>
+                  <p>Expandir nuestro campo de trabajo para dar el más alto rendimiento de nuestros servicios en tiempo, costo, calidad y el mejor equipo de trabajo al servicio de nuestros clientes.</p>
                   </div>
                   </div>
 
