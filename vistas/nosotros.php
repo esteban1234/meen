@@ -32,19 +32,49 @@
       <article class="puntosmv">
 
         <article class="puntos">
-          <p>¿PORQUE CONSTRUIR CON NOSOTROS?</p>
-          <p>Porque ofrece:</p>
-          <p>Más de 40 años de experiencia.</p>
-          <p>Excelente relación precio/metro cuadrado.</p>
-          <p>El mejor equipamiento en sus desarrollos.</p>
-          <p>Excelentes ubicaciones y vías de acceso.</p>
-          <p>La mayor plusvalía.</p>
-          <p>Trámites gratuitos.</p>
-          <p>Asesores certificados.</p>
-          <p>Calidad garantizada.</p>
+          <p class="porque">¿PORQUE CONSTRUIR CON NOSOTROS?</p> <br>
+          <!-- <p class="puntosespecificos">Porque ofrece:</p> -->
+          <p class="puntosespecificos">*&nbsp;Años de experiencia nos respaldan.</p>
+          <p class="puntosespecificos">*&nbsp;Excelente relación precio/metro cuadrado.</p>
+          <p class="puntosespecificos">*&nbsp;El mejor equipamiento en sus desarrollos.</p>
+          <p class="puntosespecificos">*&nbsp;Construcción en cualquier ubicación y vías de acceso.</p>
+          <p class="puntosespecificos">*&nbsp;Trámites gratuitos.</p>
+          <p class="puntosespecificos">*&nbsp;Asesores certificados.</p>
+          <p class="puntosespecificos">*&nbsp;Calidad garantizada.</p>
         </article>
         <article class="mv">aqui va lo de mision vision y objetivos </article>
 
+      </article>
+
+      <article class="valores">
+        <p>Valores</p>
+        <article class="contvaloresespecificos">
+          <article class="responsabilidad">
+            <span class="icon-hour-glass"></span>&nbsp;Responsabilidad con el cliente
+          </article>
+          <article class="etica">
+            <span class="icon-thumbs-up"></span>&nbsp;Ética profesional y personal.
+          </article>
+          <article class="compromiso">
+            <span class="icon-qq"></span>&nbsp;Compromiso con el cliente.
+          </article>
+        </article>
+
+        <article class="contvaloresespecificos">
+        <article class="etica">
+            <span class="icon-new-message"></span>&nbsp;Calidad en nuestro trabajo.
+          </article>
+          <article class="responsabilidad">
+            <span class="icon-leaf"></span>&nbsp;Liderazgo
+          </article>
+          <article class="compromiso">
+            <span class="icon-swap"></span>&nbsp;Comunicación
+          </article>
+        </article>
+      </article>
+
+      <article class="boton">
+        <a href="contacto.php" class="btnAzul">Contáctanos</a>
       </article>
 
 

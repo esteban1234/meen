@@ -241,26 +241,205 @@ footer b {
 .mv {
     display: inline-block;
     vertical-align: top;
+    margin-top: 2.9%;
 }
 
 .puntos {
-    outline: 2px red solid;
+    /*outline: 2px red solid;*/
     width: 40%;
-    margin-left: 5%;
+    margin-left: 15%;
 }
 
-.puntos p {
-    outline: 2px green solid;
+.porque {
+    width: 100%;
+    /*outline: 2px green solid;*/
     color: white;
     background-color: rgb(158, 187, 59, 0.7);
-    text-align: center;
+    /*text-align: center;*/
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
 
+.puntosespecificos {
+    /*outline: 2px red solid;*/
+    color: white;
+    background-color: rgb(158, 187, 59, 0.7);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    width: 100%;
+}
+
 .mv {
-    outline: 2px black solid;
+    /*outline: 2px black solid;*/
     color: black;
+}
+
+.valores {
+    /*outline: 2px red solid;*/
+}
+
+.valores p {
+    /*outline: 2px black solid;*/
+    width: 100%;
+    text-align: center;
+    color: #5f6a6a;
+    margin-top: 2%;
+    font-size: 40px;
+}
+
+.contvaloresespecificos {
+    /*outline: 2px red solid;*/
+    margin-top: 2%;
+    width: 100%;
+}
+
+.icon-hour-glass,
+.icon-thumbs-up,
+.icon-qq,
+.icon-new-message,
+.icon-leaf,
+.icon-swap {
+    color: rgb(158, 187, 59);
+    font-size: 40px;
+}
+
+.etica,
+.responsabilidad,
+.compromiso {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.responsabilidad,
+.etica,
+.compromiso {
+    /*outline: 2px green solid;*/
+    width: 30%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 2%;
+    color: rgb(81, 90, 90);
+    font-weight: bold;
+}
+
+.boton {
+    /*outline: 2px red solid;*/
+    margin-top: 2%;
+    /*height: 160px;*/
+}
+
+.btnAzul {
+    display: block;
+    width: 250px;
+    height: 80px;
+    padding: 25px 0 0 0;
+    margin: 0 auto;
+    /*background: #4682B4;*/
+    /*background-color: rgb(158, 187, 59);*/
+    background-color: #9EBB3B;
+    background: -moz-linear-gradient(top, #9EBB3B 0%, #9EBB3B 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9EBB3B), color-stop(100%, #9EBB3B));
+    box-shadow: inset 0px 0px 6px #fff;
+    -webkit-box-shadow: inset 0px 0px 6px #fff;
+    border: 1px solid #62C2F9;
+    border-radius: 10px;
+    font: bold 25px Helvetica, Sans-Serif;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #474746;
+    text-shadow: 0px 1px 2px #62C2F9;
+}
+
+.btnAzul:hover {
+    background-color: #474746;
+    background: -moz-linear-gradient(top, #474746 0%, #474746 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #474746), color-stop(100%, #9EBB3B));
+    color: #fff;
+}
+
+
+/*.textoconta {
+    outline: 2px red solid;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}*/
+
+
+/*-----------------------------servicios------------------*/
+
+.contentextoser {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    margin-top: 2%;
+    background-color: #474746;
+    height: 135px;
+    overflow: hidden;
+}
+
+.contentextoser p {
+    width: 50%;
+    border: 2px white solid;
+    margin: 0 auto;
+    margin-top: 1.7%;
+    color: white;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.contservicios {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    overflow: hidden;
+}
+
+.contservicioss {
+    /*outline: 2px green solid;*/
+    width: 80%;
+    margin: 0 auto;
+}
+
+.figura,
+.text_serv {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2%;
+}
+
+.text_serv {
+    /*outline: 2px yellow solid;*/
+    width: 50%;
+}
+
+.text_servenca {
+    /*outline: 2px pink solid;*/
+    width: 100%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+.text_sub {
+    /*outline: 2px pink solid;*/
+    margin-top: 2%;
+    width: 100%;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+.figura {
+    /*outline: 2px black solid;*/
+    width: 40%;
+    margin-left: 2%;
 }
 
 
