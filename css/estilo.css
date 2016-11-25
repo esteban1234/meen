@@ -272,6 +272,44 @@ footer b {
 .mv {
     /*outline: 2px black solid;*/
     color: black;
+    width: 30%;
+}
+
+.row {
+    /*outline: 2px green solid;*/
+}
+
+.well {
+    outline: 2px white solid;
+    display: inline-block;
+    margin-left: 2%;
+    padding: 10px;
+    /*background-color: #9EBB3B;*/
+}
+
+.inf {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.well:hover {
+    background-color: #9EBB3B;
+}
+
+.oculto {
+    outline: 2px white solid;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 4%;
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+    padding: 10px;
+    /*background-color: #9EBB3B;*/
 }
 
 .valores {

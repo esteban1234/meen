@@ -19,7 +19,7 @@
 
         <header>
 
-    <a href="#">
+    <a href="index.php">
       <div class="contenedor" id="tres">
       <img class="icon" src="img/home.png">
       <p class="texto">INICIO</p>

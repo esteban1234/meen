@@ -42,7 +42,32 @@
           <p class="puntosespecificos">*&nbsp;Asesores certificados.</p>
           <p class="puntosespecificos">*&nbsp;Calidad garantizada.</p>
         </article>
-        <article class="mv">aqui va lo de mision vision y objetivos </article>
+        <article class="mv">
+                <div class="row">
+                  <div class="well">
+                    <a href="#info1" class="inf">Misión</a>
+                  </div>
+                  <div class=" well">
+                    <a href="#info2" class="inf">Visión</a>
+                  </div>
+                  <div class="well">
+                  <a href="#info3" class="inf">Objetivo</a>
+                  </div>
+                </div>
+                <!-- contenido informacion adicional -->
+                <div class="row">
+                  <div id="info1" class="oculto">
+                    <p>Cumplir los requisitos de nuestros clientes mediante el diseño, planeación, control y ejecución de cualquier proyecto de construcción, alcanzando siempre óptimas especificaciones técnicas, urbanísticas y de calidad.</p>
+                  </div>
+                  <div id="info2" class="oculto">
+                    <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
+                  </div>
+                  <div id="info3" class="oculto">
+                  <p>Expandir nuestro campo de trabajo para dar el más alto rendimiento de nuestros servicios en tiempo, costo y la más alta calidad y el mejor equipo de trabajo al servicio de nuestros clientes.</p>
+                  </div>
+                  </div>
+
+        </article>
 
       </article>
 
@@ -85,6 +110,7 @@
 
     <script type="text/javascript" src="../js/jquery.js"></script>
     <script src="../js/menu.js"></script>
+    <script src="../js/mostrar.js"></script>
     <script type="text/javascript" src="../js/iconoarriba.js"></script>
   </body>
 </html>
