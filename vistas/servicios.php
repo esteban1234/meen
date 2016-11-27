@@ -133,7 +133,7 @@
     <?php include 'Pie.php';?>
 
     <script type="text/javascript" src="../js/jquery.js"></script>
-    <script src="../js/menu.js"></script>
+    <!-- <script src="../js/menu.js"></script> -->
     <script type="text/javascript" src="../js/iconoarriba.js"></script>
   </body>
 </html>

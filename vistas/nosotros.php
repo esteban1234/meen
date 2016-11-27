@@ -43,30 +43,39 @@
           <p class="puntosespecificos">*&nbsp;Calidad garantizada.</p>
         </article>
         <article class="mv">
-                <div class="row">
-                  <div class="well">
-                    <a href="#info1" class="inf">Misión</a>
-                  </div>
-                  <div class=" well">
-                    <a href="#info2" class="inf">Visión</a>
-                  </div>
-                  <div class="well">
-                  <a href="#info3" class="inf">Objetivo</a>
-                  </div>
-                </div>
-                <!-- contenido informacion adicional -->
-                <div class="row">
-                  <div id="info1" class="oculto">
+          <div class="content-menu">
+          		<div class="content-descripcion pi-responsive-sm">
+          			<ul class="pi-tabs-navigation pi-tabs-navigation-transparent">
+          				<li class="active"><a href="#mision">Misión</a></li>
+          				<li><a href="#vision">Visión</a></li>
+          				<li><a href="#objetivo">Objetivo</a></li>
+          			</ul>
+          			<div class="pi-tabs-content pi-tabs-content-transparent">
+          				<div class="pi-tab-pane active" id="mision">
+          					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
+          						Misión
+          					</h3>
                     <p>Cumplir los requisitos de nuestros clientes mediante el diseño, planeación, control y ejecución de cualquier proyecto de construcción, alcanzando siempre óptimas especificaciones técnicas, urbanísticas y de calidad.</p>
-                  </div>
-                  <div id="info2" class="oculto">
-                    <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
-                  </div>
-                  <div id="info3" class="oculto">
-                  <p>Expandir nuestro campo de trabajo para dar el más alto rendimiento de nuestros servicios en tiempo, costo, calidad y el mejor equipo de trabajo al servicio de nuestros clientes.</p>
-                  </div>
-                  </div>
+          				</div>
+          				<!-- End tab content -->
 
+          				<!-- Tab content -->
+          				<div class="pi-tab-pane" id="vision">
+          					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
+          						Visión
+          					</h3>
+                    <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
+          				</div>
+
+          				<div class="pi-tab-pane" id="objetivo">
+          					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
+          						Objetivo
+          					</h3>
+          					<p>Expandir nuestro campo de trabajo para dar el más alto rendimiento de nuestros servicios en tiempo, costo, calidad y el mejor equipo de trabajo al servicio de nuestros clientes.</p>
+          				</div>
+          			</div>
+          		</div>
+          </div> <!--Termina content-menu-->
         </article>
 
       </article>
@@ -108,9 +117,12 @@
 
     <?php include 'Pie.php';?>
 
-    <script type="text/javascript" src="../js/jquery.js"></script>
-    <script src="../js/menu.js"></script>
+    <!-- <script type="text/javascript" src="../js/jquery.js"></script> -->
+    <script src="../js/jquery-1.11.0.min.js"></script>
+    <!-- <script src="../js/menu.js"></script> -->
     <script src="../js/mostrar.js"></script>
     <script type="text/javascript" src="../js/iconoarriba.js"></script>
+    <script src="../js/pi.tab.js"></script>
+    <script src="../js/pi.init.tab.js"></script>
   </body>
 </html>

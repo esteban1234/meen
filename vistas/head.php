@@ -12,11 +12,7 @@
              <META NAME="Keywords" CONTENT="productos para la construcción merida yucatan, construcción merida yucatan, construcción, MEEN merida yucatan, MEEN merida yucatan, contrucción de casas merida yucatan, ampliaciones de casa merida yucatan, ingenieria civil merida yucatan, productos de construcción, levantamientos, mexico merida yucatan, desarrollo de proyectos de construcción"/>
             <!-- <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" name="viewport"> -->
             <link href="css/estilo.css" rel="stylesheet">
+            <link href="css/estilomendina.css" rel="stylesheet">
             <link href="https://fonts.googleapis.com/css?family=Lato|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
             <link href="fonts/style.css" rel="stylesheet">
-            </link>
-            </link>
-            </link>
-        </meta>
     </head>
-</html>

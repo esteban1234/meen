@@ -235,6 +235,7 @@ footer b {
     width: 100%;
     height: 300px;
     background-color: #515a5a;
+    /*text-align: center;*/
 }
 
 .puntos,
@@ -242,12 +243,19 @@ footer b {
     display: inline-block;
     vertical-align: top;
     margin-top: 2.9%;
+    /*border: 2px solid red;*/
 }
 
 .puntos {
     /*outline: 2px red solid;*/
-    width: 40%;
-    margin-left: 15%;
+    width: 35%;
+    margin-left: 5%;
+}
+
+.mv {
+    /*outline: 2px black solid;*/
+    color: black;
+    width: 55%;
 }
 
 .porque {
@@ -269,11 +277,7 @@ footer b {
     width: 100%;
 }
 
-.mv {
-    /*outline: 2px black solid;*/
-    color: black;
-    width: 30%;
-}
+
 
 .row {
     /*outline: 2px green solid;*/
