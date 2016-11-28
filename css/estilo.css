@@ -248,16 +248,15 @@ footer b {
 
 .puntos {
     /*outline: 2px red solid;*/
-    width: 35%;
+    width: 40%;
     margin-left: 5%;
 }
 
 .mv {
     /*outline: 2px black solid;*/
     color: #fff;
-    width: 55%;
+    width: 50%;
 }
-
 
 .porque {
     width: 100%;
@@ -277,8 +276,6 @@ footer b {
     font-size: 20px;
     width: 100%;
 }
-
-
 
 .row {
     /*outline: 2px green solid;*/
