@@ -54,7 +54,7 @@
           				<div class="pi-tab-pane active" id="mision">
           					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
           						Misión
-          					</h3>
+          					</h3><br>
                     <p>Cumplir los requisitos de nuestros clientes mediante el diseño, planeación, control y ejecución de cualquier proyecto de construcción, alcanzando siempre óptimas especificaciones técnicas, urbanísticas y de calidad.</p>
           				</div>
           				<!-- End tab content -->
@@ -63,14 +63,14 @@
           				<div class="pi-tab-pane" id="vision">
           					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
           						Visión
-          					</h3>
+                    </h3><br>
                     <p>Ser una de las empresas con las mejores soluciones en construcción para todos los segmentos, aplicando siempre excelentes prácticas en sus procesos de estudio, ejecución  y entrega de obra. <!-- Buscamos  alcanzar cada día mayor participación en los proyectos diferentes de construcción e infraestructura que se desarrollan en México. --></p>
           				</div>
 
           				<div class="pi-tab-pane" id="objetivo">
           					<h3 class="h4 pi-weight-700 pi-uppercase pi-letter-spacing pi-margin-bottom-25 pi-has-bg">
           						Objetivo
-          					</h3>
+          					</h3><br>
           					<p>Expandir nuestro campo de trabajo para dar el más alto rendimiento de nuestros servicios en tiempo, costo, calidad y el mejor equipo de trabajo al servicio de nuestros clientes.</p>
           				</div>
           			</div>

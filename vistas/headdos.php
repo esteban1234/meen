@@ -2,7 +2,8 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-            <link href="../img/favicon.png" rel="icon" type="image/png"/>
+            <!-- <link href="../img/favicon.png" rel="icon" type="image/png"/> -->
+            <link rel="icon" type="image/png" href="../img/favicon.png" />
             <title>
                 MEEN | CONSTRUCTORA
             </title>
