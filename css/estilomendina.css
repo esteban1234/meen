@@ -89,10 +89,10 @@
 .pi-tabs-navigation-justified li:last-child a {
   margin-right: 0;
 }
-.pi-tabs-navigation-big li a {
+/*.pi-tabs-navigation-big li a {
   font-size: 14px;
   padding: 20px 30px;
-}
+}*/
 .pi-tabs-content {
   position: relative;
   z-index: 2;

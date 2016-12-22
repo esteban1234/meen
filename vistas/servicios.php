@@ -1,25 +1,25 @@
 <?php include 'headdos.php';?>
 
   <article class="reglacabeza">
-        <article class="nombrecabeza">
-          <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
-        </article>
-         <article class="nombrecabeza2">
-          <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
-        </article>
-      </article>
+    <article class="nombrecabeza">
+      <span class="icon-text-document"></span>&nbsp;&nbsp;CONSTRUCTORA
+    </article>
+     <article class="nombrecabeza2">
+      <span class="icon-mail"></span>&nbsp;&nbsp;<b>MAIL:</b>&nbsp;&nbsp;PENDIENTE
+    </article>
+  </article>
 
-      <article class="header">
-      <nav>
-        <ul>
-          <li><a href="../index.php"><span class="icon-home"></span>&nbsp;INICIO</a></li>
-          <li><a href="nosotros.php"><span class="icon-users"></span>&nbsp;QUIENES SOMOS</a></li>
-          <li class="active"><a href="servicios.php"><span class="icon-suitcase"></span>&nbsp;SERVICIOS</a></li>
-          <li><a href="contacto.php"><span class="icon-old-phone"></span>&nbsp;CONTACTO</a></li>
-        </ul>
-      </nav>
+  <article class="header">
+    <nav>
+      <ul>
+        <li><a href="../index.php"><span class="icon-home"></span>&nbsp;INICIO</a></li>
+        <li><a href="nosotros.php"><span class="icon-users"></span>&nbsp;QUIENES SOMOS</a></li>
+        <li class="active"><a href="servicios.php"><span class="icon-suitcase"></span>&nbsp;SERVICIOS</a></li>
+        <li><a href="contacto.php"><span class="icon-old-phone"></span>&nbsp;CONTACTO</a></li>
+      </ul>
+    </nav>
+  </article>
 
-      </article>
       <h1 class="contacto">Servicios</h1>
       <p class="textoconta">Actualmente Constructora  <b class="meen">MEEN</b> se encuentra consolidada y dirigiendo obras; la empresa esta dedicada a la construcción de infraestructura urbana y de servicios con maquinaria pesada; mantenimiento y edificación industrial.</p>
 
